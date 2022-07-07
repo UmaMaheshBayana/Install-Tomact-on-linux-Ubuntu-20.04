@@ -68,9 +68,7 @@ JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 Past below lines in the file above tomcat user line
 
 ```<role rolename="manager-gui"/>
-
 <user username="tomcat" password="san3la" roles="manager-gui"/>
-
 And save the file(ctl+x , y , enter)```
  
 # To change the tomcat port
