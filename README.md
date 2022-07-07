@@ -2,7 +2,7 @@
 
 # EC2 Instance
 
-Take one Ec2 instance in AWS as per the requirement (existing we have “t2 Large” Ubuntu machine with 64GB storage
+Take one Ec2 instance in AWS as per the requirement (existing we have “t2 Large” Ubuntu machine with 64GB storage)
 
 
 # Install JAVA in the machine 
@@ -57,7 +57,7 @@ JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 
 # To restart tomcat
 
-```sudo kill -9 ‘tomcat id’```
+```sudo kill -9 tomcat id```
 
 # create tomcat username password
 
