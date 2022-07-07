@@ -50,6 +50,7 @@ Create sanela and server directory in /opt Move tomcat to server
 
 # To start the tomcat
 → cd /opt/sanela/server/tomcat/bin/
+
 → sudo sh startup.sh
 
 # To restart tomcat
