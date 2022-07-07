@@ -8,8 +8,11 @@ Take one Ec2 instance in AWS as per the requirement (existing we have “t2 Larg
 # Install JAVA in the machine 
 
 → Sudo apt-get update
+
 → sudo apt install openjdk-8-jdk
+
 → cd /usr/lib/jvm/java-8-openjdk-amd64/
+
 → pwd 
 copy the path
 → sudo nano /etc/environment
